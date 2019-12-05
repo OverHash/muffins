@@ -1,0 +1,3 @@
+# Disallow access to /secret.html
+User-agent: *
+Disallow: /secret.html
